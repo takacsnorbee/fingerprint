@@ -1,3 +1,3 @@
 # fingerprint
 
-live demo:
+live demo: https://takacsnorbee.github.io/fingerprint/
